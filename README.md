@@ -53,9 +53,9 @@ jogo.</li>
 </dl>
 <h3>Arquivos: </h3>
 <d1>
-  <dt>words.txt</dt>
+  <dt>words</dt>
   <dd>Este arquivo contém 100 palavras, de 5 letras, cujo quais são utilizadas para serem sorteadas no jogo</dd>
-  <dt>used_words.txt</dt>
+  <dt>used_words</dt>
   <dd>Este arquivo armazena as palavras já utilizadas, que foram acertadas, nos jogos.</dd>
 </d1>
 
