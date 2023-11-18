@@ -17,18 +17,23 @@
 <p align="justify"> Neste repositório, encontra-se meu trabalho avaliativo da segunda etapa do segundo semestre, onde fui desafiado a programar 100% em Python o jogo do Termo (https://term.ooo), jogado diretamente do console. </p
 
 
-## <h2>**Especificações do Programa** </h2>
-<p align="justify">  A função principal do programa é controlar um estoque, contendo diversas funcionalidades, tais como: </p>
+## <h2>**Requisitos do Sistema** </h2>
+<p align="justify">  Ao ser dado o trabalho de desenvolver este jogo, diversos requisitos, técnicos e/ou funcionais foram passados, tais como: </p>
 <ol>
-<li>Adicionar produtos ao estoque</li>
-<li>Alterar o valor de um produto</li>
-<li>Excluir um produto do estoque</li>
-<li>Exibir histórico de alterações</li>
-<li>Exibir relatório de vendas</li>
-<li>Buscar um produto</li>
-<li>Visualizar todos os produtos</li>
-<li>Visualizar todos os produtos de uma categoria específica</li>
-<li>Vender um produto</li>
+<li>Criação de um arquivo contendo todas as possibilidades de palavras a serem utilizadas no
+jogo.</li>
+<li>Elaboração de um arquivo com registro das palavras já utilizadas, garantindo que uma
+palavra não seja sorteada mais de uma vez.</li>
+<li>Utilização de listas, exceções, modularização e manipulação de arquivos no
+desenvolvimento do sistema.</li>
+<li>Caso o usuário não acerte a palavra durante um jogo, ela poderá aparecer futuramente.</li>
+<li>Implementação de funcionalidade que permita ao usuário redefinir as palavras já usadas no
+jogo.</li>
+<li>Garantia de que uma palavra não possa ser digitada duas vezes durante uma mesma partida.</li>
+<li>As palavras devem possuir obrigatoriamente 5 letras para serem válidas.</li>
+<li>As palavras sorteadas devem possuir 5 letras.</li>
+<li>O sistema não deve aceitar palavras com números ou espaços em branco.</li>
+<li>Desenvolvimento de uma interface amigável.</li>
 </ol>
 
 <h2> Arquitetura do Sistema </h2>
