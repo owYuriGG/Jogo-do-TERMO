@@ -38,7 +38,7 @@ jogo.</li>
 
 <h2> Arquitetura do Sistema </h2>
 <p align="justify"> O programa é subdividido em 7 arquivos diferentes, sendo 1 o arquivo central, o main, outros 4 são módulos do programa, divididos cada um em um grupo de funções organizadas e mais 2 arquivos de texto para armazenação de informações.</p>
-<h3>Módulos: </h3>
+<h3>Módulos e arquivos: </h3>
 <dl>
   <dt>main</dt>
   <dd>Neste módulo, é realizada a integração geral do sistema, junto com os outros módulos e funções além da jogatina em si.</dd>
@@ -50,6 +50,10 @@ jogo.</li>
     <dd>Neste módulo se encontra a função principal do jogo, onde é realizada a verificação da palavra dada pelo usuário em comparação com a palavra do jogo</dd>
   <dt>utilities</dt>
     <dd>Neste módulo se encontra as funções utilitárias, onde é realizada a verificação e tratamento de exceções, além de claro, o sorteio da palavra do dia.</dd>
+  <dt>words.txt</dt>
+  <dd>Neste arquivo está contido as 100 palavras que são sorteadas para serem adivinhadas durante o jogo.</dd>
+  <dt>used_words</dt>
+  <dd>Neste arquivo, é armazenado as palavras que já foram utilizadas e adivinhadas anteriormente.</dd>
 </dl>
 
 
