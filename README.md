@@ -35,6 +35,8 @@
 <p align="justify"> O programa é subdividido em 7 arquivos diferentes, sendo 1 o arquivo central, o main, outros 4 são módulos do programa, divididos cada um em um grupo de funções organizadas e mais 2 arquivos de texto para armazenação de informações.</p>
 <h3>Módulos: </h3>
 <dl>
+  <dt>main</dt>
+  <dd>Neste módulo, é realizada a integração geral do sistema, junto com os outros módulos e funções além da jogatina em si.</dd>
   <dt>game</dt>
     <dd>Neste módulo se concentra o core do jogo do Termo em si.</dd>
   <dt>menu_module</dt>
