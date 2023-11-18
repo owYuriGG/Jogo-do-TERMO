@@ -51,15 +51,7 @@ jogo.</li>
   <dt>utilities</dt>
     <dd>Neste módulo se encontra as funções utilitárias, onde é realizada a verificação e tratamento de exceções, além de claro, o sorteio da palavra do dia.</dd>
 </dl>
-<h3>Arquivos: </h3>
-<d1>
-  <dt>words</dt>
-  <dd>Este arquivo contém 100 palavras, de 5 letras, cujo quais são utilizadas para serem sorteadas no jogo</dd>
-  
-  <dt>used_words</dt>
-  <dd>Este arquivo armazena as palavras já utilizadas, que foram acertadas, nos jogos.</dd>
-  
-</d1>
+
 
 
 <h2 align="left"> Desenvolvido por:</h2>
