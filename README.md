@@ -48,8 +48,6 @@ jogo.</li>
     <dd>Neste módulo está o menu principal do programa.</dd>
   <dt>asnwer_checker</dt>
     <dd>Neste módulo se encontra a função principal do jogo, onde é realizada a verificação da palavra dada pelo usuário em comparação com a palavra do jogo</dd>
-  <dt>stock_module</dt>
-    <dd>Neste módulo se encontra todas as funções referentes a manipulação de estoque.</dd>
   <dt>utilities</dt>
     <dd>Neste módulo se encontra as funções utilitárias, onde é realizada a verificação e tratamento de exceções, além de claro, o sorteio da palavra do dia.</dd>
 </dl>
