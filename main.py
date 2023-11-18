@@ -7,7 +7,7 @@ def main():
         if opc == 1:
             game.play()
         elif opc == 2:
-            file = open(r'Python\Lab02\Semana12\TrabalhoG2\used_words.txt', 'w')
+            file = open('used_words.txt', 'w')
             file.close()
         elif opc == 3:
             break
