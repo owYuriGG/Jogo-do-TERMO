@@ -14,7 +14,7 @@ def play():
         if current_attemps <= max_user_attemps:
             while current_attemps <= max_user_attemps:
 
-                user_attempt = utilities.user_input()
+                user_attempt = utilities.user_input(used_words)
 
                 used_words += [user_attempt]
                 current_attemps += 1
