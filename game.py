@@ -23,7 +23,7 @@ def play():
 
                 if user_attempt == word:
                     print('Parabéns! Você descobriu a palavra!')
-                    file = open(r'Python\Lab02\Semana12\TrabalhoG2\used_words.txt', 'a')
+                    file = open(r'used_words.txt', 'a')
                     file.write(str(f'{word}\n'))
                     file.close()
                     break
