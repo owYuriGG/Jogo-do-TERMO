@@ -3,7 +3,7 @@ import answer_checker
 
 def play():
     utilities.clear()
-    max_user_attemps = 5
+    max_user_attemps = 4
     current_attemps = 0
 
     used_words = []
