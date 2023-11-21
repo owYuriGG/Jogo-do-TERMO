@@ -14,7 +14,7 @@
 </p>
 
 ## **Descrição do Repositório**
-<p align="justify"> Neste repositório, encontra-se meu trabalho avaliativo da segunda etapa do segundo semestre, onde fui desafiado a programar 100% em Python o jogo do Termo (https://term.ooo), jogado diretamente do console. </p
+<p align="justify"> Neste repositório, encontra-se meu trabalho avaliativo da segunda etapa do segundo semestre, onde fui desafiado a programar 100% em Python o jogo do Termo (https://term.ooo), jogado diretamente do console. Link do video presentando o código: https://youtu.be/yJZIbnBPhac</p
 
 
 ## <h2>**Requisitos do Sistema** </h2>
